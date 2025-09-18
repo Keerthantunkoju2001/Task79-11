@@ -1,0 +1,21 @@
+.bg1{
+    background-color: skyblue;
+}
+
+.bg2{
+    background-color: gray;
+}
+
+.bg3{
+    background-color: rgb(241, 145, 145);
+    border-radius: 10px;
+    border: 3px solid black;
+    padding: 10px;
+    margin: 10px;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
